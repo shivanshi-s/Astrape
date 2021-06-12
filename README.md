@@ -15,3 +15,5 @@ The extension uses HTML5, CSS3, JavaScript and Weather API
 </ul>
 
 <hr>
+
+[StarterPage](popup.html)
